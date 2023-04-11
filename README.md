@@ -11,3 +11,4 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 You can find [detailed information here](https://github.com/FinOps-Open-Cost-and-Usage-Spec) ** TODO: add link to membership details page**. If you have issues, please email [operations@finops.org](mailto:operations@finops.org) ** TODO: Confirm email **.
 
 If your company benefits from FinOps Open Cost and Usage Specification and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [FinOps Foundation](https://www.finops.org/membership/). 
+
