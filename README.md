@@ -21,7 +21,7 @@ You need to be signed into GitHub using an account registered to your organizati
 
 ## Step 1 - Initiate a fork and edit to this repo
 
-In order to trigger the signing process you need to fork this repo and submit a pull request (PR). This sounds like a hard process but luckily the GitHub web interface handles most of the steps for you. 
+In order to trigger the signing process you need to fork this repo and submit a pull request (PR). This sounds like a hard process, but luckily the GitHub web interface handles most of the steps for you. 
 
 * Open the following URL [https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA#readme](https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA#readme)
 * Click on the pencil icon, this will fork the repo into your own GitHub account and allow you to make a change to be submitted back.
