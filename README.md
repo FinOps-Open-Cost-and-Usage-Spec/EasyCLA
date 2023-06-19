@@ -14,6 +14,8 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 
 ## Step 0 - Setup a GitHub Account and Login
 
+
+
 You need to be signed into GitHub using an account registered to your organization email address.
 
 * If you have not done this previously you can [register a new account here](https://github.com/signup)
