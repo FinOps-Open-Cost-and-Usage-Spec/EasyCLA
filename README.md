@@ -71,6 +71,9 @@ Once you have completed the process of signing the CLA and have been added to yo
 * Find your open pull request in the list and select it
 * Check on the status of the EasyCLA add-on, if you are not covered you will need to start the signing process by selecting "click here to be authorized"
 * After completing this process you should see you pull request has been authorized
+* 
+
+
 * Let us know you have completed the signing process in [#chat-focus](https://finopsfoundation.slack.com/archives/C034GBRQGGY) so you can be added to the meeting invites and get involved in the FOCUS groups. If you are having trouble accessing this channel email [focus@finops.org](mailto:focus@finops.org)
 
 ![initiate_signing_process_step_6](images/initiate_signing_process_step_6.png)
