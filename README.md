@@ -46,7 +46,7 @@ Now you have a staged commit in your forked repo you can submit a pull request (
 
 ![initiate_signing_process_step_3](images/initiate_signing_process_step_3.png)
 
-## Step 4 - Find your PR and trigger signing
+## Step 4 - Find your PR & trigger signing
 
 Now you have opened a PR it will cause the EasyCLA to check on your signing status and enable you to start the signing process.
 
