@@ -2,8 +2,7 @@
 
 This is a neutral repo where you can open a trivial PR and initiate the EasyCLA signing process. All PRs will be closed periodically.
 
-# Contributing to this repo
-
+# Contributing to this repo     
 This repository is managed by EasyCLA. Project participants must sign the free [FOCUS Specification Membership agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) before making a contribution. You only need to do this one time, and it can only be signed by corporations and their employees approved to contribute.
 
 You can find [detailed information here](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation). If you have issues, please email [focus@finops.org](mailto:focus@finops.org).
