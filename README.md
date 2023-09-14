@@ -76,3 +76,5 @@ Once you have completed the process of signing the CLA and have been added to yo
 
 
 ![initiate_signing_process_step_6](images/initiate_signing_process_step_6.png)
+
+
