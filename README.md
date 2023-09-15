@@ -41,7 +41,7 @@ Once you enter the edit screen just make a nothing change to the file, We sugges
 
 Now you have a staged commit in your forked repo you can submit a pull request (PR) back to the main FOCUS repo.
 
-* Update the name of your pull request to "Initiate CLA - <Your Name>" - Replace Your name with your actual name ;) 
+* Update the name of your pull request to "Initiate CLA - [Your Name]" - Replace Your name with your actual name ;) 
 * Click on "Create Pull Request"
 
 ![initiate_signing_process_step_3](images/initiate_signing_process_step_3.png)
