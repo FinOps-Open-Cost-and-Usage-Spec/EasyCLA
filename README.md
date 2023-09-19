@@ -10,6 +10,9 @@ You can find [detailed information here](https://github.com/FinOps-Open-Cost-and
  
 To initiate the signature process please open a PR against this repo. The EasyCLA bot will block the merge if we still need a membership agreement from you.
 
+
+
+
 # Steps to trigger CLA signing process
 
 ## Step 0 - Setup a GitHub Account and Login
