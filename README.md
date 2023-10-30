@@ -67,6 +67,9 @@ At this stage you have started the CLA signing process and can follow the docume
 
 Once you have completed the process of signing the CLA and have been added to your organization by your CLA Manager you need to confirm your authorization by doing the signing process one last time.
 
+
+
+
 * Open pull [requests for this repo](https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA/pulls)
 * Find your open pull request in the list and select it
 * Check on the status of the EasyCLA add-on, if you are not covered you will need to start the signing process by selecting "click here to be authorized"
