@@ -1,6 +1,6 @@
 # FinOps Open Cost and Usage Specification Membership Onboarding
 
-This is a neutral repo where you can open a trivial PR and initiate the EasyCLA signing process. All PRs will be closed periodically.
+This is a neutral repo where you can open a trivial PR and initiate the EasyCLA signing process. All PRs will be closed periodically. 
 
 # Contributing to this repo
 
