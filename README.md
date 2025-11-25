@@ -18,6 +18,7 @@ You need to be signed into GitHub using an account registered to your organizati
 
 * If you have not done this previously you can [register a new account here](https://github.com/signup)
 * Once you have an account [login to GitHub](https://github.com/login)
+* 
 
 ## Step 1 - Initiate a fork and edit to this repo
 
@@ -74,3 +75,5 @@ Once you have completed the process of signing the CLA and have been added to yo
 * Let us know you have completed the signing process in [#chat-focus](https://finopsfoundation.slack.com/archives/C034GBRQGGY) so you can be added to the meeting invites and get involved in the FOCUS groups. If you are having trouble accessing this channel email [focus@finops.org](mailto:focus@finops.org)
 
 ![initiate_signing_process_step_6](images/initiate_signing_process_step_6.png)
+
+
